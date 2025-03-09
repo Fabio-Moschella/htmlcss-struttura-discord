@@ -23,7 +23,6 @@ main {
   margin: 0 auto;
 
   background-color: white;
-  padding: 20px 0;
 }
 footer {
   width: 100%;
@@ -165,21 +164,7 @@ footer {
   width: 17.5%;
   border: 2px dashed white;
 }
-.description-hub3 {
-  background-color: rgb(0, 183, 255);
-  width: 17.5%;
-  border: 2px dashed white;
-}
-.description-hub4 {
-  background-color: rgb(0, 183, 255);
-  width: 17.5%;
-  border: 2px dashed white;
-}
-.description-hub5 {
-  background-color: rgb(0, 183, 255);
-  width: 17.5%;
-  border: 2px dashed white;
-}
+
 .footer-menu {
   max-width: 1100px;
   margin: 0 auto;
@@ -192,9 +177,5 @@ footer {
   background-color: pink;
   border: 2px dashed black;
   margin: 0;
-}
-.footer-button {
-  background-color: pink;
-  border: 2px dashed black;
-  margin: 0;
+  padding: 2px;
 }
